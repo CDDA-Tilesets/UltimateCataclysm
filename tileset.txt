@@ -1,0 +1,4 @@
+NAME: UltimateCataclysm
+VIEW: UltiCa
+JSON: tile_config.json
+TILESET: tiles.png
